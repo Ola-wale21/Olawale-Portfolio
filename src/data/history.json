@@ -1,0 +1,35 @@
+[
+  {
+    "role": "Front-End Developer",
+    "organisation": "Freelance",
+    "startDate": "Sept, 2022",
+    "endDate": "Present",
+    "experiences": [
+      "Developed responsive web applications using React, Node.js, and Tailwind CSS",
+      "Translated Figma/PSD mockups into pixel-perfect, cross-browser layouts"
+    ],
+    "imageSrc": "history/developerImage.png"
+  },
+  {
+    "role": "Lead Generation Specialist",
+    "organisation": "Freelance",
+    "startDate": "Jan, 2023",
+    "endDate": "Dec, 2024",
+    "experiences": [
+      "Conducted targeted prospect research across multiple industries to identify qualified leads",
+      "Optimized landing pages for improved conversion rates and user engagement"
+    ],
+    "imageSrc": "history/leadGeneration.png"
+  },
+  {
+    "role": "President",
+    "organisation": "ASISA, University of Lagos",
+    "startDate": "2024",
+    "endDate": "2025",
+    "experiences": [
+      "Led organization of National Risk Compendium 4.0 with 2,000+ attendees and ₦12M sponsorship",
+      "Managed cross-functional teams and coordinated with industry stakeholders"
+    ],
+    "imageSrc": "history/ASISA.jpg"
+  }
+]
